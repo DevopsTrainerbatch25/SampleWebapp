@@ -17,7 +17,6 @@
   </dependencies>
   <build>
     <finalName>Hsbcib</finalName>
-  </build>
   <plugins>
     <plugin>
     <groupId>org.apache.maven.plugins</groupId>
@@ -25,4 +24,5 @@
     <version>3.3.1</version>
 </plugin>
   </plugins>
+   </build>
 </project>
