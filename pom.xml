@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>develop-Hsbcib</finalName>
+    <finalName>test-Hsbcib</finalName>
   <plugins>
     <plugin>
     <groupId>org.apache.maven.plugins</groupId>
